@@ -17,6 +17,10 @@ Core Components:
     - Material and Structural Calculations: Includes lamination parameter calculations, 
       ply-level constraints, and material stiffness/buckling formulas.
 
+Dependencies:
+    - Python (tested with version 3.11)
+    - NumPy (tested with version 2.1.2)
+    - h5py (tested with version 3.11.0)
 
 License:
     Licensed under the Apache License, Version 2.0 (the "License");
@@ -33,7 +37,6 @@ Note:
     and is shared for research and evaluation purposes. For full context, additional tools, 
     and related code, please see the main repository at:
     https://github.com/ArneWulff/quantum-mobility-quest-qaims
-
 
 Disclaimer:
     As experimental code, this module is not guaranteed for production use and is best suited 
