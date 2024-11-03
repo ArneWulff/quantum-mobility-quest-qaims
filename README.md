@@ -6,7 +6,8 @@ In our submission, we explore a quantum approach to solving the stacking sequenc
 
 ## About QAIMS
 
-Our team, **QAIMS** ([QAIMS at TU Delft](https://www.tudelft.nl/lr/qaims)), is based at TU Delft’s Faculty of Aerospace Engineering. We are an interdisciplinary group of researchers led by Dr. Boyang Chen, Dr. Yinglu Tang, Dr. Sebastian Feld, and Dr. Matthias Möller, with expertise spanning aerospace structures, materials science, and quantum computing. Our submission is led by Arne Wulff and Swapan Madabhushi Venkata, two PhD researchers specializing in quantum computing and machine learning methods for material design.
+Our team, **QAIMS** ([QAIMS at TU Delft](https://www.tudelft.nl/lr/qaims)), is based at TU Delft’s Faculty of Aerospace Engineering. We are an interdisciplinary group of researchers investigating the potential of innovative computational methods such as quantum computing and AI to solve
+difficult problems in aerospace material and structures.
 
 ## Contents of This Repository
 
@@ -14,7 +15,7 @@ This repository includes two main subdirectories for the quantum algorithms expl
 
 - **`fvqe_python`**: Contains Python code for F-VQE in the `ssr_with_fvqe` folder, and a demonstration notebook `demo_fvqe.ipynb` which guides users through the essential functions for setting up and running F-VQE for SSR.
 
-- **`dmrg_julia`**: Contains Julia code for DMRG in the `ssr_with_dmrg` folder, with a demonstration file `demo_ssr_with_dmrg.jl` that explains the setup and execution of DMRG for SSR. This folder includes all necessary Julia package files to allow users to reproduce the results using `using SSRWithDMRG`.
+- **`dmrg_julia`**: Contains Julia code for DMRG in the `ssr_with_dmrg` folder, with a demonstration file `demo_ssr_with_dmrg.jl` that demonstrates the setup and execution of DMRG for SSR. This folder should include all necessary Julia package files to allow users to reproduce the results using `using SSRWithDMRG`.
 
 ## Problem Overview
 
