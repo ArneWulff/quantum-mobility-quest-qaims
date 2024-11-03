@@ -1,6 +1,6 @@
 # Quantum Mobility Quest - QAIMS: Quantum-Assisted Stacking Sequence Retrieval
 
-This repository contains code accompanying our submission to the **Airbus/BMW Quantum Computing Challenge** ([Quantum Mobility Quest](https://qcc.thequantuminsider.com/)). We are participating in the **Golden App** category with our entry titled: **"Quantum-Assisted Stacking Sequence Retrieval and Laminate Composite Design."**
+This repository contains code accompanying our submission to the **Airbus/BMW Quantum Computing Challenge** ([Quantum Mobility Quest](https://qcc.thequantuminsider.com/)). We are participating in the **Golden App** category with our entry titled: **"Quantum-Assisted Stacking Sequence Retrieval and Laminated Composite Design."**
 
 In our submission, we explore a quantum approach to solving the stacking sequence retrieval (SSR) problem for fiber-reinforced composite materials. SSR is a critical challenge in optimizing laminated composite structures, particularly in the mobility sector, where advanced design solutions are essential for achieving climate-neutral mobility. Our approach applies **Density-Matrix Renormalization Group (DMRG)** and **Filtering Variational Quantum Eigensolver (F-VQE)** algorithms to tackle SSR, meeting specific stiffness and strength requirements while adhering to manufacturing constraints.
 
