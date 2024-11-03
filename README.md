@@ -53,4 +53,4 @@ This code is licensed under the **Apache 2.0 License**. As it represents experim
 
 ## Acknowledgments
 
-We extend our thanks to the **Airbus and BMW Quantum Computing Challenge** organizers for the opportunity to showcase our work in the **Golden App** category, and to our collaborators and sponsors at TU Delft.
+We extend our thanks to the **Airbus and BMW Quantum Computing Challenge** organizers for the opportunity to showcase our work in the **Golden App** category, and to our collaborators at TU Delft.
