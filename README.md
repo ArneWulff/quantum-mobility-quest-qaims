@@ -24,8 +24,8 @@ The optimization of laminate composites for lightweight aerospace and automotive
 ### Objectives and Algorithms
 
 In this work, we focus on two main objectives:
-1. **Minimizing distance to target lamination parameters** using Euclidean distance (both F-VQE and DMRG).
-2. **Maximizing the buckling factor**, a recent addition motivated by industry feedback (here only F-VQE).
+1. **Finding a stacking sequence that minimizing distance to target lamination parameters**
+2. **Finding a stacking sequence with fixed ply-angle counts that maximizes the buckling factor**
 
 The algorithms implemented here—**DMRG** and **F-VQE**—were chosen for their ability to efficiently explore and refine configurations in large combinatorial spaces. DMRG serves as a classical tensor-based algorithm, and F-VQE is a quantum algorithm designed to filter out high-energy states, thereby improving optimization.
 
