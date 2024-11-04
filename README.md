@@ -1,5 +1,5 @@
-![TUD logo](img/logo_TUD_259x159.png#gh-light-mode-only) ![QAIMS logo](img/logo_QAIMS_259x159.png#gh-light-mode-only)
-![TUD logo](img/logo_TUD_white_259x159.png#gh-dark-mode-only) ![QAIMS logo](img/logo_QAIMS_white_259x159.png#gh-dark-mode-only)
+![TUD and QAIMS logos](img/logos_tud_qaims.png#gh-light-mode-only)
+![TUD and QAIMS logos](img/logos_white_tud_qaims.png#gh-dark-mode-only)
 
 # **Quantum-Assisted Stacking Sequence Retrieval and Laminated Composite Design**
 
