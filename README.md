@@ -65,5 +65,5 @@ This code is licensed under the **Apache 2.0 License**. As it represents experim
 
 We extend our thanks to the **Airbus/BMW Quantum Computing Challenge** organizers for the opportunity to showcase our work in the **Golden App** category, and to our collaborators at TU Delft.
 
-![TUD and QAIMS logos](img/logos_tud_qaims.png#gh-light-mode-only)
-![TUD and QAIMS logos](img/logos_white_tud_qaims.png#gh-dark-mode-only)
+[![TUD and QAIMS logos](img/logos_tud_qaims.png#gh-light-mode-only)](https://www.tudelft.nl/lr/qaims)
+[![TUD and QAIMS logos](img/logos_white_tud_qaims.png#gh-dark-mode-only)](https://www.tudelft.nl/lr/qaims)
