@@ -5,7 +5,7 @@ This module provides an implementation of the Filtering Variational Quantum Eige
 (F-VQE) algorithm, developed as part of the Airbus/BMW Quantum Computing Challenge. The 
 objective is to explore how quantum computing techniques can enhance stacking sequence 
 retrieval (SSR) for optimizing composite laminate structures. The F-VQE algorithm 
-specifically addresses the unique challenges of composite stacking by integrating 
+specifically addresses the challenges of composite stacking by integrating 
 domain-specific constraints and objectives such as laminate parameter alignment and 
 buckling factor maximization.
 
