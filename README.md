@@ -1,6 +1,3 @@
-![TUD and QAIMS logos](img/logos_tud_qaims.png#gh-light-mode-only)
-![TUD and QAIMS logos](img/logos_white_tud_qaims.png#gh-dark-mode-only)
-
 # **Quantum-Assisted Stacking Sequence Retrieval and Laminated Composite Design**
 
 This repository contains code accompanying our submission to the **Airbus/BMW Quantum Computing Challenge** ([Quantum Mobility Quest](https://qcc.thequantuminsider.com/)). We are participating in the **Golden App** category with our entry titled: **"Quantum-Assisted Stacking Sequence Retrieval and Laminated Composite Design."**
@@ -67,3 +64,6 @@ This code is licensed under the **Apache 2.0 License**. As it represents experim
 ## Acknowledgments
 
 We extend our thanks to the **Airbus/BMW Quantum Computing Challenge** organizers for the opportunity to showcase our work in the **Golden App** category, and to our collaborators at TU Delft.
+
+![TUD and QAIMS logos](img/logos_tud_qaims.png#gh-light-mode-only)
+![TUD and QAIMS logos](img/logos_white_tud_qaims.png#gh-dark-mode-only)
