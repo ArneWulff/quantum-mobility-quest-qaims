@@ -15,7 +15,7 @@ The submission report is included in the root directory of this repository under
 
 This repository includes two main subdirectories for the quantum algorithms explored in this project:
 
-- [**`fvqe_python`**](fvqe_python/): Contains Python code for F-VQE in the `ssr_with_fvqe` folder, and a demonstration notebook [`demo_fvqe.ipynb`](fvqe_python/demo_fvqe.ipynb) which guides users through the essential functions for setting up and running F-VQE for SSR.
+- [**`fvqe_python`**](fvqe_python/): Contains Python code for F-VQE in the `ssr_with_fvqe` folder, and a demonstration notebook [`demo_ssr_with_fvqe.ipynb`](fvqe_python/demo_ssr_with_fvqe.ipynb) which guides users through the essential functions for setting up and running F-VQE for SSR.
 
 - [**`dmrg_julia`**](dmrg_julia/): Contains Julia code for DMRG in the `ssr_with_dmrg` folder, with a demonstration file [`demo_ssr_with_dmrg.jl`](dmrg_julia/demo_ssr_with_dmrg.jl) that demonstrates the setup and execution of DMRG for SSR. The demo file includes steps to implement a bias on nearest-neighbor interactions, which controls the dispersion and clustering of same-angle plies, and can be done using the existing code base. The folder `dmrg_julia` should include all necessary Julia package files to allow users to run the DMRG algorithm for SSR using `using SSRWithDMRG`.
 
@@ -57,7 +57,7 @@ Our implementation includes essential manufacturing constraints:
 
 2. **Getting started**:
    - For details on the implemented algorithms, read the submission report [`QuantumMobilityQuestSubmissionQAIMS.pdf`](QuantumMobilityQuestSubmissionQAIMS.pdf).
-   - For **Python/F-VQE**, navigate to [`fvqe_python`](fvqe_python/), install the dependencies, and review [`demo_fvqe.ipynb`](fvqe_python/demo_fvqe.ipynb) to get an overview of the most important classes and methods.
+   - For **Python/F-VQE**, navigate to [`fvqe_python`](fvqe_python/), install the dependencies, and review [`demo_ssr_with_fvqe.ipynb`](fvqe_python/demo_ssr_with_fvqe.ipynb) to get an overview of the most important classes and methods.
    - For **Julia/DMRG**, navigate to [`dmrg_julia`](dmrg_julia/), activate the environment in [`ssr_with_dmrg`](dmrg_julia/ssr_with_dmrg/), and review [`demo_ssr_with_dmrg.jl`](dmrg_julia/demo_ssr_with_dmrg.jl) to get an overview of most important structs and functions. 
 
 ## License and Disclaimer
