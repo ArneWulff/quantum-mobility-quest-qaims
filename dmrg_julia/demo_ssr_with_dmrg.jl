@@ -50,7 +50,7 @@ let
     sweep_sequence = "L"
 
     # 🔷 specify filelocation and filename
-    filelocation = "C:\\Users\\arnew\\Documents\\ExperimentalData\\julia_dmrg\\"
+    filelocation = "path\\to\\folder\\"  # insert path to folder here
     timestamp = Dates.format(now(), "yyyy-mm-dd_HH-MM-SS")
     filename = "test_dmrg_$timestamp"
 
